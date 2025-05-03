@@ -79,5 +79,5 @@ To further enhance this analysis, future steps could include:
 
 ## Contact
 
-LinkedIn - [Agnė Vabalaitė](www.linkedin.com/in/agnė-vabalaitė).
+LinkedIn - [Agnė Vabalaitė](https://www.linkedin.com/in/agne-vabalaite).
 Gmail - vab.agne@gmail.com
